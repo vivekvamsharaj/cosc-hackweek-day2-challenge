@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: vinay
+- Roll Number: 063
+- Section: CSE-A
+- GitHub Username: vinaykumar
